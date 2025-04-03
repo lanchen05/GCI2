@@ -1,0 +1,17 @@
+table,Materials,Materials,2,"CREATE TABLE Materials(
+    matID INT PRIMARY KEY,
+    Name TEXT,
+    Stability TEXT,
+    Mass REAL,
+    elDensity REAL,
+    ionDensity REAL,
+    elTemp REAL
+)"
+index,sqlite_autoindex_Materials_1,Materials,3,
+table,QValue,QValue,4,"CREATE TABLE QValue (
+    Name TEXT PRIMARY KEY,
+    iniMass REAL,
+    finMass REAL,
+    Exothermic BOOL
+)"
+index,sqlite_autoindex_QValue_1,QValue,5,
