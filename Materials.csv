@@ -1,19 +1,19 @@
-Number,Isotope, Half-life Reaction, MeV
-1,Deuterium (H-2),Stable,2,,,
-2,Tritium (H-3),12.32 years,3,,,
-3,Lithium-6 (Li-6),Stable,6,,,
-4,Helium-3 (³He),Stable,3,,,
-5,Uranium-235 (U-235),703.8 million years,235,,,
-6,Uranium-238 (U-238),4.468 billion years,238,,,
-7,Plutonium-239 (Pu-239),"24,110 years",239,,,
-8,Thorium-232 (Th-232),14.05 billion years,232,,,
-9,Lithium-7 (Li-7),Stable,7,,,
-10,Carbon-14 (C-14),"5,730 years",14,,,
-11,Neptunium-237 (Np-237),2.14 million years,237,,,
-12,Plutonium-238 (Pu-238),87.7 years,238,,,
-13,Americium-241 (Am-241),432.2 years,241,,,
-14,Californium-252 (Cf-252),2.645 years,252,,,
-15,Radium-226 (Ra-226),"1,600 years",226,,,
-16,Polonium-210 (Po-210),138 days,210,,,
-17,Technetium-99m (Tc-99m),6 hours,99,,,
-18,Cobalt-60 (Co-60),5.27 years,60,,,
+Number,Isotope,Half-life,Mass Number,Reaction,MeV
+1,Deuterium (H-2),Stable,2,Fusion,3.27 MeV
+2,Tritium (H-3),12.32 years,3,Fusion,17.59 MeV
+3,Lithium-6 (Li-6),Stable,6,Fusion,4.78 MeV
+4,Helium-3 (3He),Stable,3,Fusion (produces tritium),5.493 MeV
+5,Uranium-235 (U-235),703.8 million years,235,Fission,
+6,Uranium-238 (U-238),4.468 billion years,238,Breeding to Pu-239,
+7,Plutonium-239 (Pu-239),"24,110 years",239,Fission,
+8,Thorium-232 (Th-232),14.05 billion years,232,Breeding to U-233,
+9,Lithium-7 (Li-7),Stable,7,Neutron moderation,
+10,Carbon-14 (C-14),"5,730 years",14,Beta decay,
+11,Neptunium-237 (Np-237),2.14 million years,237,Alpha decay,
+12,Plutonium-238 (Pu-238),87.7 years,238,Alpha decay,
+13,Americium-241 (Am-241),432.2 years,241,Alpha decay,
+14,Californium-252 (Cf-252),2.645 years,252,Spontaneous fission,
+15,Radium-226 (Ra-226),"1,600 years",226,Alpha decay,
+16,Polonium-210 (Po-210),138 days,210,Alpha decay,
+17,Technetium-99m (Tc-99m),6 hours,99,Gamma emission,
+18,Cobalt-60 (Co-60),5.27 years,60,Beta decay, gamma emission
